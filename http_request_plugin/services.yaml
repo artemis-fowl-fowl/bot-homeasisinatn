@@ -1,0 +1,7 @@
+send_request:
+  name: Send HTTP request
+  description: Envoie une requête HTTP définie dans requests.yaml
+  fields:
+    nom:
+      description: "Nom de la requête à exécuter"
+      example: "requete1"

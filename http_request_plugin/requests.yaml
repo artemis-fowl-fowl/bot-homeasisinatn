@@ -1,0 +1,6 @@
+requete1:
+  url: "https://api.example.com/do-action"
+  nom: "Action 1"
+requete2:
+  url: "https://api.example.com/do-other"
+  nom: "Action 2"
